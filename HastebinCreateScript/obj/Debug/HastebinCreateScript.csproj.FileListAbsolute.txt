@@ -1,0 +1,10 @@
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.csproj.AssemblyReference.cache
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.Form1.resources
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.Properties.Resources.resources
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.csproj.GenerateResource.cache
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.csproj.CoreCompileInputs.cache
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\bin\Debug\HastebinCreateScript.exe.config
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\bin\Debug\HastebinCreateScript.exe
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\bin\Debug\HastebinCreateScript.pdb
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.exe
+C:\Users\hkaga\source\repos\HastebinCreateScript\HastebinCreateScript\obj\Debug\HastebinCreateScript.pdb
